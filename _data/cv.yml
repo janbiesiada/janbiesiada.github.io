@@ -1,0 +1,97 @@
+url: http://janbiesiada.github.io
+projectUrl: jbdev-cv
+
+# leave blank fields which you don't want to fill/be displayed
+person:
+  name: Jan Biesiada
+  depiction: jbies.jpeg
+  profession: Magento 2 Backend Developer
+  location: Poznań
+  citizenship: PL
+  email: jan.biesiada.88@gmail.com
+  site: https://janbiesiada.github.io/
+  phone: +48509957448
+  github: /yankers88
+  stackoverflow: /jan-biesiada
+  stackoverflownr: 13365504
+  linkedin: /janbiesiada
+
+career:
+ - position: Magento 2 Backend Developer
+   company: Six
+   location: Remote
+   dates: May 2020 - September 2020
+   summary:  Developing Magento / Magento 2 based projects
+   accomplishments:
+    - accomplishment: Migrated and maintained web stores from Magento 1 to Magento 2.
+    - accomplishment: Guided staff in the implementation of best practices.
+    - accomplishment: Assisted team members in Magento 2 development and ensured code quality met high requirements.
+ - position: Magento 2 Backend Developer
+   company: Web Solutions NYC
+   location: Remote
+   dates: December 2018 - June 2020
+   summary: Developing Magento 2 based projects
+   accomplishments:
+    - accomplishment: Developed Magento 2-powered newly built web store projects.
+    - accomplishment: Migrated and maintained web stores from Magento 1 to Magento 2.
+    - accomplishment: Developed and maintained Magento 2 cross-project modules.
+ - position: PHP Developer / Magento 2 Certified Proffesional Developer
+   company: Creatuity Corp.
+   location: Poznań, Poland
+   dates: January 2016 – September 2018
+   summary: Developing Magento / Magento 2 based projects
+   accomplishments:
+    - accomplishment: Maintained and debugged Magento-powered web store projects.
+    - accomplishment: Acted as the development lead for the Magento 2 project.
+    - accomplishment: Migrated and maintained web stores from Magento 1 to Magento 2 and developed Magento 2-powered web store projects.
+ - position: PHP Developer
+   company: Polcode
+   location: Remote
+   dates: October 2015 – December 2015
+   summary: Developing projects using Laravel
+   accomplishments:
+    - accomplishment: Developing ecommerce projects using Laravel
+ - position: PHP Developer
+   company: PROFITROOM
+   location: Poznań, Poland
+   dates: October 2014 – October 2015
+   summary: Developing a Laravel-powered booking application for hotel websites.
+   accomplishments:
+    - accomplishment: Created and maintained a Laravel and Bootstrap-powered portfolio-like application.
+    - accomplishment: Created and maintained a Laravel and Bootstrap powered application for searching hotel-related websites for marketing purposes.
+
+technicalSkills:
+  list:
+    - tr: "Developing Magento 2 based projects"
+    - tr: "Practical usage of PHPSTORM"
+    - tr: "Practical usage of GIT"
+    - tr: "Practical usage of JIRA"
+  backend:
+   - name: PHP
+     level: 90
+   - name: Magento 2
+     level: 80
+  frontend:
+   - name: JS
+     level: 30
+   - name: CSS
+     level: 20
+  other:
+   - name: Git
+     level: 90
+   - name: Jira
+     level: 70
+
+sideProjects:
+  - name: Graeters
+    description: This project is a Magento 2-powered ice cream web store. It was migrated from Magento 1. My responsibilities in this project were to create a semi-custom solution based on the Magento data migration tool for migrating data from Magento 1. I developed REST API endpoints for the custom ice cream configurator, custom solutions for back-end-related client requirements, and successfully launched the project.
+    link: http://www.graeters.com
+    type: Web Store
+    langs: PHP/Magento 2
+
+education:
+  - name: Poznań University of Technology
+    degree: Master of Science (M.S.) Automatic Control and Robotics
+    location: Poznań
+    dates: 2008 – 2013
+    link: https://www.put.poznan.pl/
